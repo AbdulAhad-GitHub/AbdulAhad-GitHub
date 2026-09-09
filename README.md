@@ -22,7 +22,7 @@ I'm a passionate developer focused on building intuitive applications and crafti
 
 ### 📈 GitHub Statistics
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=AbdulAhad-GitHub&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulAhad-GitHub&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect!
