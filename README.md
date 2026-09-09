@@ -5,7 +5,7 @@
 I'm a passionate **Software Developer and VAPT Tester** focused on building intuitive web applications, crafting excellent user experiences, and exploring cybersecurity through vulnerability assessment and penetration testing. Welcome to my GitHub profile!
 
 ### 🔭 Spotlight Projects
-- 🛡️ **[HoneyShield](https://github.com/AbdulAhad-GitHub/HoneyShield):** Cybersecurity project for advanced threat detection.
+- 🛡️ **[HoneyShield](https://github.com/AbdulAhad-GitHub/honey-shield-frontend):** Cybersecurity project for advanced threat detection.
 - 🔍 **[wazuh-homelab](https://github.com/AbdulAhad-GitHub/wazuh-homelab):** Infrastructure and configuration for Wazuh SIEM testing.
 - 🏘️ **[Hostel-Manage-System](https://github.com/AbdulAhad-GitHub/Hostel-Manage-System):** A comprehensive solution for managing hostel operations.
 - 📚 **[Library-Management-System](https://github.com/AbdulAhad-GitHub/Library-Management-System):** Digitalized library tracking and management.
