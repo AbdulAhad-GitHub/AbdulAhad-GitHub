@@ -1,10 +1,6 @@
 # Hi there 👋, I'm Abdul Ahad! 🚀
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulAhad-GitHub&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulAhad-GitHub" />
-</div>
 
-<br />
 
 I'm a passionate **Software Developer and VAPT Tester** focused on building intuitive web applications, crafting excellent user experiences, and exploring cybersecurity through vulnerability assessment and penetration testing. Welcome to my GitHub profile!
 
