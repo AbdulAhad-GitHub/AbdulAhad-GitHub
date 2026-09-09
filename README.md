@@ -24,4 +24,5 @@ I'm a passionate **Software Developer and VAPT Tester** focused on building intu
 </p>
 
 ### 📫 Let's Connect!
+- Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/abdulahad-cybersecurity/)
 - You can reach out to me for web development collaborations, or simply to chat about tech!
