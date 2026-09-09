@@ -17,12 +17,12 @@ I'm a passionate developer focused on building intuitive applications and crafti
 
 ### 🛠️ Languages & Tech
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad-GitHub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,git,vscode&perline=5" alt="Tech Stack" />
 </p>
 
 ### 📈 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad-GitHub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="AbdulAhad's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AbdulAhad-GitHub&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ### 📫 Let's Connect!
